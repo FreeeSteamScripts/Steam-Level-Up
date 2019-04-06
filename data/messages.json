@@ -1,0 +1,74 @@
+{
+
+	"Welcome":"Hey {customer_name}, thanks for add me!, you may type !help for instructions"
+
+,	"play":"[H] {have_sets} sets [W] 24:1 CS:GO Key || 1000:1 Gems"
+,	"play2":" || 26:1 TF Key"
+,	"play3":"/ {pubg_rate} PUBG Key!"
+
+,	"Thanks":"Thanks for using Level UP service!, Enjoy crafting badges. Please +rep my profile."
+
+,	"Check":"I currently have {have_sets} set(s) which you haven't crafted!!{breakline}To buy all of them it'll cost {csgo_price} CS:GO Key(s) or {gems_price} Gems"
+,	"Check2":" or {tf_price} tf Key(s)!"
+,	"Check3":" or {pubg_price} pubg Key(s)!"
+,	"Check_i":"Interested? Type !buy {buy_qty}, or !buygems {buygems_qty}"
+,	"Check_i2":" or !buytf {buytf_qty}"
+,	"Check_i3":" or !buypubg {buypubg_qty}"
+
+,	"SellCheck":"You currently have {amount} sets which I can buy"
+,	"SellCheck2":"I'll pay {csgokeys_amount} cs:go key(s) for {csgosets_amount} sets or {gems_amount} Gems for {gemsets_amount} sets"
+,	"SellCheck3":" or {tfkeys_amount} tf keys for {tfsets_amount} sets"
+,	"SellCheck4":" or {pubgkeys_amount} pubg keys for {pubgsets_amount} sets"
+,	"SellCheck_i":"Interested? Type !sell {sell_qty}, or !sellgems {sellgems_qty}"
+,	"SellCheck_i2":" or !selltf {selltf_qty}"
+,	"SellCheck_i3":" or !sellpubg {sellpubg_qty}"
+
+,	"Level":"You'll need {needed} sets to reach level {desired_level}"
+,	"Level_c":"It'll cost {price_keys} keys or {price_gems} Gems"
+,	"Level_c2":" or {price_tf} tf keys"
+,	"Level_c3":" or {price_pubg} pubg keys"
+,	"Level2":"Type !prices to see our prices!"
+
+,	"Sell_keys":"You can sell sets too! Just type !sellcheck for info !"
+
+,	"Donthave":"Unfortunately I don't have any set which you haven't crafted yet"
+,	"ThemDonthave":"Unfortunately you don't have any sets which i can buy, please come back later ..?"
+
+,	"i_need":"Unfortunately I only have {currency_qty} {currency} available for you, and I need {needed} for this request"
+,	"them_need":"Unfortunately you only have {currency_qty} {currency} available to trade, and you need {needed} for this request"
+
+,	"Sorryme":"Sorry, but I only have {currency_qty} {currency_name} on my inventory, may you try {command} {command_qty} ?"
+,	"Sorryme2":"Sorry, but I don't have any {currency_name} on my inventory :/"
+
+,	"Sorrythem":"Sorry, but you only have {currency_qty} {currency_name} tradable on your inventory, may you try {command} {command_qty} ?"
+,	"Sorrythem2":"Sorry, but you don't have any tradable {currency_name} on your inventory"
+
+,	"Inventory_error":"There was an error in load your inventory or I have too much offers right now, please try again"
+,	"Inventory_priv":"Your profile is private ;--;{breakline}Please make it public for me ?"
+
+,	"Loading":"Sorry, I'm currently loading my inventory, please try again"
+
+,	"Badge_error":"An error occurred while loading your badges. Please try again."
+,	"General_error":"Something wrong has happened, please try again."
+
+,	"SpamWarn1":"Please don't spam me"
+,	"SpamWarn2":"Please dont send too much messages"
+,	"SpamWarn3":"You're sending too much messages to me, i'll unfriend you, bye"
+
+,	"Trade_error":"An error occurred while sending your trade, probably I have too much offers right now, can you please try again? Thanks!"
+,	"Trade_error1":"You're unavailable to trade, please try again later"
+,	"Trade_error2":"I have sent too many trade offers, or have too many outstanding trade offers with you. {breakline}Can you please cancel some before next request? Thanks!"
+,	"Trade_hold":"Sorry, but I'm not allowed to accept trade hold"
+
+,	"OwnerRequest":"Zdravo majstore"
+,	"CustomerRequest":"Please wait, proccessing your request"
+
+,	"SendingOffer":"Sending trade offer"
+
+,	"OfferSent":"Trade offer sent"
+,	"OfferSent2":"Quick link for you : {url}"
+
+,	"Unknow":"Unknown command!, Type !help for more information."
+,	"UnknowAdmin":"Unknown command!, Type !help or !admin for more information."
+
+}

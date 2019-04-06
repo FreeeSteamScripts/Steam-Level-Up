@@ -1,0 +1,13 @@
+{
+	"name": "levelbot",
+	"version": "2.0.24",
+	"description": "Card Bot",
+	"main": "./bot.js",
+	"dependencies": {
+		"object.values": "^1.0.4",
+		"request": "^2.81.0",
+		"steam-tradeoffer-manager": "^2.8.0",
+		"steam-user": "^3.21.6",
+		"steamcommunity": "^3.31.0"
+	}
+}
